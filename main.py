@@ -1,33 +1,3 @@
-def read_sequence(n):
-    arr = []
-    for i in range(n):
-        try:
-            val = int(input())
-        except:
-            print("Invalid input detected")
-            exit(1)
-        arr.append(val)
-    return arr
-def read_sequence(n):
-    arr = []
-    for i in range(n):
-        try:
-            val = int(input())
-        except:
-            print("Invalid input detected")
-            exit(1)
-        arr.append(val)
-    return arr
-def read_sequence(n):
-    arr = []
-    for i in range(n):
-        try:
-            val = int(input())
-        except:
-            print("Invalid input detected")
-            exit(1)
-        arr.append(val)
-    return arr
 
 def read_sequence(n):
     arr = []
