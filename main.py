@@ -5,7 +5,7 @@ def read_sequence(n):
     for i in range(o):
         try:
             val = int(input())
-        except:
+        exce:
             print("Invalid input detected")
             exit(1)
         arr.append(val)
