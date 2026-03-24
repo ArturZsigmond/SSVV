@@ -24,12 +24,7 @@ def read_sequence(n):
     arr = []
     for i in range(n):
         try:
-            val = int(input())
-        exce:
-            print("Invalid input detected")
-            exit(1)
-        arr.append(val)
-    return arr
+
     
 def compute_a_sequence(start, n, arr):
     distinct = set()
